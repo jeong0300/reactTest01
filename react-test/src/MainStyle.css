@@ -1,0 +1,53 @@
+.wrap-box {
+  margin-bottom: 40px;
+
+  .title {
+    color: black;
+    font-size: 25px;
+  }
+
+  .content {
+    color: gray;
+  }
+}
+
+.flex {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.red {
+  background-color: red;
+  height: 50px;
+}
+
+.orange {
+  background-color: orange;
+  height: 50px;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 50px;
+}
+
+.green {
+  background-color: green;
+  height: 50px;
+}
+
+.skyBlue {
+  background-color: skyblue;
+  height: 50px;
+}
+
+.blue {
+  background-color: blue;
+  height: 50px;
+}
+
+.purple {
+  background-color: purple;
+  height: 50px;
+}
